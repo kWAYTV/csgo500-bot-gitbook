@@ -5,8 +5,6 @@ description: 'Here''s a breakdown of the YAML config settings:'
 # Configuration
 
 ```yaml
-# CSGO500 Rain bot
-
 # Tool settings
 headless_switch: True # Toggle for showing (False) or hiding (True) the browser window
 
