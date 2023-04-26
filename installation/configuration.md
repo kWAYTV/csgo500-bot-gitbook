@@ -6,6 +6,7 @@ description: 'Here''s a breakdown of the YAML config settings:'
 
 ```yaml
 # Tool settings
+reload_time: 15 # Time that it waits until Main site is loaded fully.
 headless_switch: True # Toggle for showing (False) or hiding (True) the browser window
 
 # Discord settings
