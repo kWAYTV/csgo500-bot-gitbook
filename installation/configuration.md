@@ -14,6 +14,9 @@ nickname: "" # Any nickname
 webhook_switch: True # Toggle for enabling (True) or disabling (False) webhooks
 webhook_url: "" # Webhook URL (used if webhooks are enabled)
 send_success: True # Toggle for sending successful claims to the Discord server
+rpc_switch: True # Turn Discord RPC on or off.
+discord_client_id: # Your Discord client ID for RPC.
+discord_rpc_image: "" # Discord RPC Image key from the dashboard.
 
 # Chromedriver settings
 user_agent: "" # User agent string, found on whatismybrowser.com
